@@ -10,7 +10,7 @@
     "orange",
     "tests"
   ],
-  "author": "Esteban B",
+  "author": "Leandro Leopardi",
   "license": "ISC",
   "dependencies": {
     "cypress": "^12.16.0"
